@@ -202,6 +202,7 @@ Run the script as Administrator (required for the `keyboard` library to intercep
 
 ```bash
 python remote.py
+```
 
 ## 🔧 Troubleshooting
 
@@ -229,4 +230,7 @@ python remote.py
 ---
 
 _Disclaimer: This project involves modifying electrical components. Proceed at your own risk. Always disconnect the battery when working on wiring._
+
+```
+
 ```
