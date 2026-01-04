@@ -225,12 +225,8 @@ python remote.py
 **Dadan**
 
 - _Frontend Developer & DIY Enthusiast_
-- https://www.linkedin.com/in/dadan-dadan-b3322a68/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadan-dadan-b3322a68/)
 
 ---
 
 _Disclaimer: This project involves modifying electrical components. Proceed at your own risk. Always disconnect the battery when working on wiring._
-
-```
-
-```
