@@ -225,7 +225,8 @@ python remote.py
 **Dadan**
 
 - _Frontend Developer & DIY Enthusiast_
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadan-dadan-b3322a68/)
+- Connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadan-dadan-b3322a68/)
+- Follow on Instagram [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/radan.stromer22/)
 
 ---
 
