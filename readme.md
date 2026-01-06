@@ -6,6 +6,8 @@
 ![Language](https://img.shields.io/badge/language-Python-3776AB)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[![Watch the Demo Video](https://img.youtube.com/vi/zVmI0E0HFQA/maxresdefault.jpg)](https://youtu.be/zVmI0E0HFQA)
+
 > **From Web to Wheels:** A project converting a standard kid's ride-on car (previously using a broken JR-RX receiver) into a smart, Bluetooth-controlled vehicle using an ESP32 and high-power motor drivers.
 
 ---
